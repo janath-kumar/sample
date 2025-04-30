@@ -1,5 +1,5 @@
 TXT test file
 Purpose: Provide example of this file type
 Document file type: TXT
-Version: 2.0
+Version: 3.0
 
