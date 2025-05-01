@@ -1,5 +1,5 @@
 // Import the HTTP module
-const http = require('http');
+const http = require('https');
 
 // Define the hostname and port
 const hostname = '127.0.0.1';
