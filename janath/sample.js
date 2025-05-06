@@ -2,7 +2,7 @@
 const http = require('https');
 
 // Define the hostname and port
-const hostname = '127.0.0.1';
+const hostname = 'localhost';
 const port = 9000;
 
 // Create the server
