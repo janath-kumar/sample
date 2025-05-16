@@ -4,7 +4,7 @@ from flask import Flask, redirect
 app = Flask(__name__)
 
 # Dev Redirect Rules
-@app.route('/login')
+@app.route('/login_URL')
 def dev_login_redirect():
     return redirect('https://dev-auth.example.com/signin', code=302)
 
